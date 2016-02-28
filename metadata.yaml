@@ -1,0 +1,30 @@
+_repo: Voyages-of-Peter-Esprit-Radisson-Being-an-Account-of-His-Travels-and-Experiences-Among-the-Nor__6913
+creator:
+  author:
+    agent_name: Radisson, Pierre Esprit
+    aliases:
+    - Radison, Peter Esprit
+    - Raddison, Peter Esprit
+    deathdate: 1710
+    gutenberg_agent_id: '2251'
+    url: http://www.gutenberg.org/2009/agents/2251
+    wikipedia: http://en.wikipedia.org/wiki/Pierre-Esprit_Radisson
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New France -- Discovery and exploration'
+- !lcc 'F1001'
+- !lcsh 'Indians of North America -- Canada'
+- !lcsh 'Hudson''s Bay Company'
+- !lcsh 'Iroquois Indians'
+- !lcsh 'Northwest, Canadian -- History'
+title: "Voyages of Peter Esprit Radisson\r\nBeing an Account of His Travels and Experiences\
+  \ Among the North American Indians, from 1652 to 1684"
+url: http://www.gutenberg.org/ebooks/6913
